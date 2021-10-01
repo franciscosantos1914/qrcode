@@ -6,6 +6,6 @@ new QRCode(qrcodeArea, {
   width: 128,
   height: 128,
   colorDark: "#000000",
-  colorLight: "#217629",
+  colorLight: "#ffffff",
   correctLevel: QRCode.CorrectLevel.H,
 });
