@@ -1,0 +1,12 @@
+body {
+  display: grid;
+  place-content: center;
+  margin-top: 20%;
+  background: #ccc;
+}
+h3 {
+  color: #999;
+  font-family: "Fira Code", monospace;
+  text-transform: uppercase;
+  text-align: center;
+}
